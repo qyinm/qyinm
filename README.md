@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 -->
 ![iamseungwoo GitHub stats](https://github-readme-stats.vercel.app/api?username=iamseungwoo&show_icons=true&theme=tokyonight)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=linux)](https://solved.ac/linux)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseungwoo&layoutcompact&theme=tokyonight)
