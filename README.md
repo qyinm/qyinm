@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # 👋 Hi there!
-  I’m Studying on 🦁likelion.univ 10th
+  **I’m Studying on 🦁likelion.univ 10th**
   
   <br><br>
   <img width="300" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/></a>
