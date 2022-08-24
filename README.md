@@ -7,7 +7,7 @@
   <img width="300" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/></a>
   </br>
   
-  <h2>⌨️ I can do it!</h2>
+  <h2>⌨️ Teck Stack!</h2>
   <img src="https://img.shields.io/badge/Python-8e44ad?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a><br>
