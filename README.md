@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> -->
 </div>
 
-**iamseungwoo/iamseungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **iamseungwoo/iamseungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Here are some ideas to get you started: -->
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 ![iamseungwoo GitHub stats](https://github-readme-stats.vercel.app/api?username=iamseungwoo&show_icons=true&theme=tokyonight)  
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=linux)(https://solved.ac/linux)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseungwoo&layoutcompact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseungwoo&layout=compact&theme=tokyonight)
