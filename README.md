@@ -36,7 +36,7 @@ Here are some ideas to get you started: -->
 
 <!-- ![iamseungwoo GitHub stats](https://github-readme-stats.vercel.app/api?username=iamseungwoo&show_icons=true&theme=tokyonight)   -->
 # 🏅 Baekjoon solved rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=linux)](https://solved.ac/profile/linux)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qyiin)](https://solved.ac/profile/qyiin)
 # 👨🏻‍💻 GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseungwoo&layout=compact&theme=tokyonight)
 
