@@ -1,8 +1,8 @@
 <div align="center"> 
 
 # 👋 Hi there!
-  **I’m Studying on 🦁likelion.univ 10th**
-  **current ROKA coder**
+  **I’m Studying on 🦁likelion.univ 10th**<br>
+  **current ROKA coder**<br>
   시간 날 때마다 commit 합니당
   
   <br><br>
