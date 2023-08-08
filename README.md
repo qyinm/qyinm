@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <!--   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> -->
-    
+  
 
 
 <!-- **iamseungwoo/iamseungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +40,7 @@ Here are some ideas to get you started: -->
 <!-- ![iamseungwoo GitHub stats](https://github-readme-stats.vercel.app/api?username=iamseungwoo&show_icons=true&theme=tokyonight)   -->
 # 🏅 Baekjoon solved rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=linux)](https://solved.ac/profile/linux)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=linux&theme=warm)
 # 👨🏻‍💻 GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseungwoo&layout=compact&theme=tokyonight)
 
