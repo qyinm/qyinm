@@ -3,7 +3,8 @@
 # 👋 Hi there!
   **I’m Studying on 🦁likelion.univ 10th**<br>
   **current ROKA coder**<br>
-  시간 날 때마다 commit 합니당
+  PS는 취미입니당<br>
+ 
   
   <br><br>
   <img width="300" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/></a>
