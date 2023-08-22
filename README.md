@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="left"> 
 
 # 👋 Hi there!
   **I’m Studying on 🦁likelion.univ 10th**<br>
@@ -10,20 +10,9 @@
   <img width="300" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/></a>
   </br>
   
-  <h2>⌨️ Teck Stack!</h2>
-  <img src="https://img.shields.io/badge/Python-8e44ad?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  
-  <h2>✏️ Learning </h2>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<!--   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<!--   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> -->
-  
-
+### ✔️Back-end
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 
 <!-- **iamseungwoo/iamseungwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
