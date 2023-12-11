@@ -35,5 +35,5 @@ Here are some ideas to get you started: -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=linux)](https://solved.ac/profile/linux)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=linux&theme=warm)
 # 👨🏻‍💻 GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseungwoo&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyinm&layout=compact&theme=tokyonight)
 </div>
