@@ -1,9 +1,13 @@
 <div align="left"> 
 
 # 👋 Hi there!
+<!--
   **I’m Studying on 🦁likelion.univ 10th**<br>
   **current ROKA coder** 잔디밭으로 전역해보겠습니다<br>
-  PS는 취미입니당<br>
+  -->
+  **I'm interested in English and Software Engineering**
+  
+  취미로 PS합니다.<br>
  
   
   <br><br>
