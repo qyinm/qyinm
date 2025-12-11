@@ -6,7 +6,7 @@
 
 ## Projects
 
-- [Tyquill](https://github.com/TyquillAI) - AI 뉴스레터 생성 플랫폼
+- [Tyquill](https://github.com/tyquill) - AI 뉴스레터 생성 플랫폼
 
 <br/>
 
