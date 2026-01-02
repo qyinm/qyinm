@@ -1,12 +1,15 @@
 ## Seungwoo Byeon
 
-소프트웨어 개발을 통해 문제를 정의하고 해결하는 것에 관심이 많은 개발자입니다.
+I'm a software engineer passionate about defining and solving problems through software.
+
+- 🦄 **Can do Anything for Creation or Money**
+- 🚀 **Will Try Ideas for Fast Execution**
 
 <br/>
 
 ## Projects
 
-[✍️ Tyquill - AI 뉴스레터 생성 플랫폼](https://github.com/tyquill)
+[✍️ Tyquill - AI Newsletter Service](https://github.com/tyquill)
 
 <br/>
 
