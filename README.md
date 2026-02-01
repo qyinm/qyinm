@@ -12,6 +12,7 @@ I'm a software engineer passionate about defining and solving problems through s
 - ✍️ [Tyquill - AI Newsletter Service](https://github.com/tyquill)
 - 🎧 [rytmo - NoAds youtube player and productivity](https://github.com/qyinm/rytmo)
 - 📸 [glimm - caputure moment of day](https://github.com/qyinm/glimm-ios)
+- 🦆 [DuckDocs - screenshots to docs with AI](https://github.com/qyinm/duckdocs)
 
 <br/>
 
