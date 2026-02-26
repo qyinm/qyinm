@@ -11,9 +11,16 @@ I'm a software engineer passionate about defining and solving problems through s
 
 - ✍️ [Tyquill - AI Newsletter Service](https://github.com/tyquill)
 - 🎧 [rytmo - NoAds youtube player and productivity](https://github.com/qyinm/rytmo)
-- 📸 [glimm - caputure moment of day](https://github.com/qyinm/glimm-ios)
+- 📸 [glimm - capture moment of day](https://github.com/qyinm/glimm-ios)
   - Link: [AppStore](https://apps.apple.com/kr/app/glimm-moment-capture/id6758400271)
 - 🦆 [DuckDocs - screenshots to docs with AI](https://github.com/qyinm/duckdocs)
+
+<br/>
+
+## Open Source Contributions
+
+- ✅ **Merged PR**: [JetBrains/koog#1398](https://github.com/JetBrains/koog/pull/1398)
+  - Added OpenRouter embedding support via `LLMEmbeddingProvider` implementation
 
 <br/>
 
@@ -48,7 +55,7 @@ I'm a software engineer passionate about defining and solving problems through s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </td>
-</tr
+</tr>
 
 <tr>
 <th><b>AI/ML</b></th>
@@ -92,4 +99,3 @@ I'm a software engineer passionate about defining and solving problems through s
 </table>
 
 <br/>
-
