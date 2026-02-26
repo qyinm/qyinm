@@ -7,6 +7,12 @@ I'm a software engineer passionate about defining and solving problems through s
 
 <br/>
 
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/lines/qyinm" width="1000" height="120"/>
+</a>
+
+<br/>
+
 ## Projects
 
 - ✍️ [Tyquill - AI Newsletter Service](https://github.com/tyquill)
