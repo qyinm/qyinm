@@ -14,6 +14,7 @@ I'm a software engineer passionate about defining and solving problems through s
 - 📸 [glimm - capture moment of day](https://github.com/qyinm/glimm-ios)
   - Link: [AppStore](https://apps.apple.com/kr/app/glimm-moment-capture/id6758400271)
 - 🦆 [DuckDocs - screenshots to docs with AI](https://github.com/qyinm/duckdocs)
+- 🦝 [phtui - Product hunt in CLI](https://github.com/qyinm/phtui)
 
 <br/>
 
