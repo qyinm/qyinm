@@ -2,8 +2,7 @@
 
 I'm a software engineer passionate about defining and solving problems through software.
 
-- 🦄 **Can do Anything for Creation or Money**
-- 🚀 **Will Try Ideas for Fast Execution**
+- 🎯 **Done is BETTER than Perfect**
 
 <br/>
 
