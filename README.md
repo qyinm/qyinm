@@ -12,8 +12,9 @@ I'm a software engineer passionate about defining and solving problems through s
 - 🎧 [rytmo - NoAds youtube player and productivity](https://github.com/qyinm/rytmo)
 - 📸 [glimm - capture moment of day](https://github.com/qyinm/glimm-ios)
   - Link: [AppStore](https://apps.apple.com/kr/app/glimm-moment-capture/id6758400271)
-- 🦆 [DuckDocs - screenshots to docs with AI](https://github.com/qyinm/hyprduck)
+- 🦆 [HyprDuck - docs for AI](https://github.com/qyinm/hyprduck)
 - 🦝 [phtui - Product hunt in CLI](https://github.com/qyinm/phtui)
+- ✂️ [snaptailor](https://github.com/qyinm/snaptailor)
 
 <br/>
 
