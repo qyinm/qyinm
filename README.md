@@ -16,6 +16,7 @@ I'm a software engineer passionate about defining and solving problems through s
 - 🦝 [phtui - Product hunt in CLI](https://github.com/qyinm/phtui)
 - ✂️ [snaptailor - Portable AI agent environment snapshots](https://github.com/qyinm/snaptailor)
 - ⚡ [Flint - macOS input layer for reusable AI prompts](https://github.com/qyinm/Flint)
+- 🌐 [Xlat - Local-only Chrome page translator](https://github.com/qyinm/Xlat)
 
 <br/>
 
