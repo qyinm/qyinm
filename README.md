@@ -18,6 +18,7 @@ I'm a software engineer passionate about defining and solving problems through s
 - ⚡ [Flint - macOS input layer for reusable AI prompts](https://github.com/qyinm/Flint)
 - 🌐 [Xlat - Local-only Chrome page translator](https://github.com/qyinm/Xlat)
 - 📝 [Mdown - Browser extension for web article markdown capture](https://github.com/qyinm/Mdown)
+  - [![users](https://img.shields.io/chrome-web-store/users/bmebbnpnakgpmmhlkhlaoihcdkfeogch?style=flat-square&label=users&color=555555&labelColor=333333)](https://chromewebstore.google.com/detail/bmebbnpnakgpmmhlkhlaoihcdkfeogch)
 
 <br/>
 
