@@ -9,12 +9,12 @@ I'm a software engineer passionate about defining and solving problems through s
 ## Projects
 
 - ✍️ [Tyquill - AI Newsletter Service](https://github.com/tyquill)
-- 🎧 [rytmo - NoAds youtube player and productivity](https://github.com/qyinm/rytmo)
+- 🎧 [pace - NoAds youtube player and productivity](https://github.com/qyinm/pace)
 - 📸 [glimm - capture moment of day](https://github.com/qyinm/glimm-ios)
   - Link: [AppStore](https://apps.apple.com/kr/app/glimm-moment-capture/id6758400271)
 - 🦆 [HyprDuck - docs for AI](https://github.com/qyinm/hyprduck)
 - 🦝 [phtui - Product hunt in CLI](https://github.com/qyinm/phtui)
-- ✂️ [snaptailor - Portable AI agent environment snapshots](https://github.com/qyinm/snaptailor)
+- ✂️ [gandalf - AI agent environment management](https://github.com/qyinm/gandalf)
 - ⚡ [Flint - macOS input layer for reusable AI prompts](https://github.com/qyinm/Flint)
 - 🌐 [Xlat - Local-only Chrome page translator](https://github.com/qyinm/Xlat)
 - 📝 [Mdown - Browser extension for web article markdown capture](https://github.com/qyinm/Mdown)
