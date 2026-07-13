@@ -1,32 +1,14 @@
 ## Seungwoo Byeon
 
-I'm a software engineer passionate about defining and solving problems through software.
-
-- 🎯 **Done is BETTER than Perfect**
-
-<br/>
+I enjoy turning unclear problems into simple, useful software.
 
 ## Projects
 
-- ✍️ [Tyquill - AI Newsletter Service](https://github.com/tyquill)
-- 🎧 [pace - NoAds youtube player and productivity](https://github.com/qyinm/pace)
-- 📸 [glimm - capture moment of day](https://github.com/qyinm/glimm-ios)
-  - Link: [AppStore](https://apps.apple.com/kr/app/glimm-moment-capture/id6758400271)
-- 🦆 [HyprDuck - docs for AI](https://github.com/qyinm/hyprduck)
-- 🦝 [phtui - Product hunt in CLI](https://github.com/qyinm/phtui)
-- ✂️ [gandalf - AI agent environment management](https://github.com/qyinm/gandalf)
-- ⚡ [Flint - macOS input layer for reusable AI prompts](https://github.com/qyinm/Flint)
-- 🌐 [Xlat - Local-only Chrome page translator](https://github.com/qyinm/Xlat)
-- 📝 [Mdown - Browser extension for web article markdown capture](https://github.com/qyinm/Mdown)
-  - [![users](https://img.shields.io/chrome-web-store/users/bmebbnpnakgpmmhlkhlaoihcdkfeogch?style=flat-square&label=users&color=555555&labelColor=333333)](https://chromewebstore.google.com/detail/bmebbnpnakgpmmhlkhlaoihcdkfeogch)
+- [Plot](https://github.com/plot-labs/plot) — A source-backed workspace for turning shipped work into product updates.
+- [Tyquill](https://github.com/tyquill) — An AI-powered newsletter service.
+- [Gandalf](https://github.com/qyinm/gandalf) — Review and safely roll back changes made by AI agents.
+- [Mdown](https://github.com/qyinm/Mdown) — Capture web articles as Markdown.
 
-<br/>
+## Open Source
 
-## Open Source Contributions
-
-- ✅ **Merged PR**: [JetBrains/koog#1398](https://github.com/JetBrains/koog/pull/1398)
-  - Added OpenRouter embedding support via `LLMEmbeddingProvider` implementation
-
-<br/>
-
-<br/>
+- [JetBrains Koog](https://github.com/JetBrains/koog) — Added OpenRouter embedding support ([merged PR #1398](https://github.com/JetBrains/koog/pull/1398)).
